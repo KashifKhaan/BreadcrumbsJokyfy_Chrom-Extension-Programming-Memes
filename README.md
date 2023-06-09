@@ -5,12 +5,12 @@ Jokyfy is a fun and engaging Chrome extension that brings a touch of humor to pr
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| <img width="207" alt="pg joke 2" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/1139b757-0371-49ef-afd3-19fa2007307a"> | <img width="225" alt="pg joke 15" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/c398b5ac-a790-4ec6-88e2-717412cce5de"> | <img width="221" alt="pg joke 3" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/468d3174-a8bd-46cb-ac0d-f4db4c2a886d"> | <img width="236" alt="pg joke 11" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/4ad83a1e-b352-4b49-8729-e862c8b16eb1"> |
+| <img width="207" alt="pg joke 2" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/a0d96f90-7ba2-47bb-80a7-87d5d3e5cfb8"> | <img width="225" alt="pg joke 15" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/9f4dc8d9-0b77-4813-8647-62d2b1338bdf"> | <img width="221" alt="pg joke 3" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/6b587ddd-dcc6-4e7a-ae18-567e07bbcd54"> | <img width="236" alt="pg joke 11" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/891e5b88-a621-4abe-bef5-c7eab13c381e"> |
 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| <img width="238" alt="pg joke 10" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/19dc1489-779c-4136-95d6-ffa9d287e486"> | <img width="238" alt="pg joke 12" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/b3dd0995-d136-49ae-966c-44657874e9a7"> | <img width="221" alt="pg joke 3" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/bb7dc202-8b7f-4c8c-9590-ff467e2b9d82"> | <img width="238" alt="pg joke 10" src="https://github.com/KashifKhaan/Jokyfy_Chrom-Extension-Programming-Memes/assets/88695658/3909f336-1f54-477b-af2d-b61b54ea01ac"> |
+| <img width="238" alt="pg joke 12" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/d725e3e8-9e32-4ebf-8553-0f431e42e1cf"> | <img width="221" alt="pg joke 3" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/9a201266-aef2-4b24-b631-0a7764273f4f"> | <img width="238" alt="pg joke 10" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/eaf54544-0067-4c33-b091-26041b8f7ace"> | <img width="227" alt="pg joke 2" src="https://github.com/KashifKhaan/Jokyfy_Chrome-Extension-Programming-Memes/assets/88695658/434c8d8a-8137-4517-9a3c-d59a00272631"> |
 
 
 ## Installation
