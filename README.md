@@ -35,7 +35,8 @@ Contributions are welcome! If you'd like to enhance Jokyfy by adding new feature
 - Submit a pull request detailing your changes.
 
 ## License
-There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
+
+This project is licensed under the terms of the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 Jokyfy utilizes programming joke APIs to provide a wide range of humor. We would like to express our gratitude to the following APIs for their contributions:
