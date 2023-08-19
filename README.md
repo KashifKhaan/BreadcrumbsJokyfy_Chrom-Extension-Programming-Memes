@@ -1,5 +1,5 @@
 # Jokyfy - Random Programming Jokes Chrome Extension
-Jokyfy is a fun and engaging Chrome extension that brings a touch of humor to programming. This repository contains the code for the Jokyfy Chrome extension, which generates random programming jokes using various APIs.
+Jokyfy is a fun and engaging Chrome extension that brings a touch of humor to programming. This repository contains the code for the Jokyfy Chrome extension, which generates random programming jokes and memes using various APIs.
 
 ## Screenshots
 
